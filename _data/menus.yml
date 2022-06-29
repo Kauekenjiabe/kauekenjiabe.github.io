@@ -3,9 +3,11 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-- title: About
+- title: Sobre
   url: /#about
-- title: Services
+- title: Video Conceito
   url: /#services
-- title: Members
+- title: Membros
+  url: /#members
+- title: Protótipo
   url: /#members
