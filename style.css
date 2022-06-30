@@ -231,10 +231,8 @@ h3{
   align-items: center;
   justify-content: center;
   background-color: black;
-  color: #fff;
-  font-size: 45px;
-  text-align: center;
 }
+
 .container-artefatos {
   position: relative;
   width: 100%;
